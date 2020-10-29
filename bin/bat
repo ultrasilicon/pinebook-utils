@@ -1,0 +1,2 @@
+#!/bin/zsh
+cat /sys/class/power_supply/cw2015-battery/capacity
